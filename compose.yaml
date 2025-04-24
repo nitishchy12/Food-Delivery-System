@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  js-app:
+    # React frontend app service
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # image: js-app:dev
+    container_name: js-app
+    restart: unless-stopped
+    init: true
+    ports:
+      - "3000:3000"  # Expose React app on localhost:3000
+    # env_file: ./.env  # Uncomment if .env file exists
+    # No external dependencies detected
+    # No persistent volumes needed (static frontend)
