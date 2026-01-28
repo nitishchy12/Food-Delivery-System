@@ -147,23 +147,3 @@ Kubernetes deployment
 👨‍💼 Author
 
 Nitish Kumar Choudhary
-Aspiring DevOps Engineer | Full-Stack & Cloud Enthusiast
-GitHub: https://github.com/nitishchy12
-
-🎯 Should This Be Your 2nd DevOps Project?
-✅ YES — 100%
-
-Here’s how interviewers will see it:
-
-Skill	Covered?
-React Basics	✅
-Docker	✅
-CI/CD	✅
-Jenkins	✅
-GitHub	✅
-Real Project	✅
-💬 How YOU should say it in interview:
-
-“This project helped me understand how frontend applications are containerized and deployed using CI/CD pipelines. I automated the entire build and deployment using Jenkins and Docker, similar to real production workflows.”
-
-That line alone hits hard 💥
