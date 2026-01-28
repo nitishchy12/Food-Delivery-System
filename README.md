@@ -3,11 +3,6 @@
 A modern Food Ordering Web Application built using React.js with complete Dockerization and CI/CD pipeline using Jenkins.
 This project demonstrates frontend development + DevOps practices such as containerization, automation, and deployment readiness.
 
-🚀 Live Project Overview
-
-GitHub Repository:
-👉 https://github.com/nitishchy12/Food-Delivery-System
-
 📌 Features
 
 🛒 Add to Cart functionality
